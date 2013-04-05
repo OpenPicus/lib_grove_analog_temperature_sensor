@@ -2,7 +2,8 @@ lib_grove_analog_temperature_sensor
 ===================================
 
 Flyport library for Grove analog temperature sensor, released under GPL v.3.<br>
-This library allows to interface the Grove analog temperature sensor with OpenPicus Flyport wifi/ethernet or GPRS, returning a value for temperature directly expressed in °C. How to use:
+This library allows to interface the Grove analog temperature sensor with OpenPicus Flyport wifi/ethernet or GPRS, returning a value for temperature directly expressed in °C. <BR>
+For complete documentation go to wiki.openpicus.com, here's an easy to use example:
 <br>1) import files inside Flyport IDE using the external libs button.<br>
 2) add following code example in FlyportTask.c:
 
